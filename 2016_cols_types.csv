@@ -1,0 +1,190 @@
+column,type
+PACFA License Number:,string
+Facility Name:,string
+Zip Code,string
+Adult Dogs: Beginning Count ,int
+Adult Dogs: Beginning Foster Count,int
+Adult Dogs: Stray,int
+Adult Dogs: Owner Relinquished,int
+Adult Dogs: Owner Requested Euthanasia upon intake,int
+Adult Dogs: Transfer in from another Colorado organization  ,int
+Adult Dogs: Transfer in from Out of State organization,int
+Adult Dogs: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Adult Dogs: Adoption,int
+Adult Dogs: Returned To Owner (RTO),int
+Adult Dogs: Transfer or Rescue out to another Colorado organization,int
+Adult Dogs: Transfer or Rescue out to an Out of State organization,int
+Adult Dogs: Other live outcomes (ie: tnr/snr),int
+Adult Dogs: Died,int
+Adult Dogs: Missing / Stolen,int
+Adult Dogs: Shelter Euthanasia ,int
+Adult Dogs: Owner Requested Euthanasia,int
+Adult Dogs: Ending Count,int
+Adult Dogs: Foster Count,int
+Adult Dogs: Notes,string
+Juvenile Dogs: Beginning Count,int
+Juvenile Dogs: Beginning Foster Count,int
+Juvenile Dogs: Stray,int
+Juvenile Dogs: Owner Relinquished ,int
+Juvenile Dogs: Owner Requested Euthanasia upon intake,int
+Juvenile Dogs: Transfer in from another Colorado organization,int
+Juvenile Dogs: Transfer in from Out of State organization,int
+Juvenile Dogs: Other: TNR / Protective Custody / Returns / Disaster relief,int
+Juvenile Dogs: Adoption ,int
+Juvenile Dogs: Returned To Owner (RTO),int
+Juvenile Dogs: Transfer or Rescue out to another Colorado organization,int
+Juvenile Dogs: Transfer or Rescue out to an Out of State organization,int
+Juvenile Dogs: Other live outcomes (ie tnr / snr) ,int
+Juvenile Dogs: Died,int
+Juvenile Dogs: Missing / Stolen,int
+Juvenile Dogs: Shelter Euthanasia,int
+Juvenile Dogs: Owner Requested Euthanasia,int
+Juvenile Dogs: Ending Count,int
+Juvenile Dogs: Foster Count,int
+Juvenile Dogs: AVG LOS,int
+Juvenile Dogs: Notes,string
+Adult Cats: Beginning Count,int
+Adult Cats: Beginning Foster Count,int
+Adult Cats: Stray,int
+Adult Cats: Owner Relinquished,int
+Adult Cats: Owner Requested Euthanasia upon intake,int
+Adult Cats: Transfer in from another Colorado organization,int
+Adult Cats: Transfer in from Out of State organization,int
+Adult Cats: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Adult Cats: Adoption,int
+Adult Cats: Returned To Owner (RTO),int
+Adult Cats: Transfer or Rescue out to another Colorado organization,int
+Adult Cats: Transfer or Rescue out to an Out of State organization,int
+Adult Cats: Other Live Outcomes (ie: tnr / snr),int
+Adult Cats: Died,int
+Adult Cats: Missing / Stolen,int
+Adult Cats: Shelter Euthanasia,int
+Adult Cats: Owner Requested Euthanasia ,int
+Adult Cats: Ending Count ,int
+Adult Cats: Foster Count,int
+Adult Cats: AVG LOS,int
+Adult Cats: Notes,string
+Juvenile Cats: Beginning Count,int
+Juvenile Cats: Beginning Foster Count,int
+Juvenile Cats: Stray ,int
+Juvenile Cats: Owner Relinquished,int
+Juvenile Cats: Owner Requested Euthanasia upon intake,int
+Juvenile Cats: Transfer in from another Colorado organization,int
+Juvenile Cats: Transfer in from Out of State organization,int
+Juvenile Cats: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Juvenile Cats: Adoption ,int
+Juvenile Cats: Returned To Owner (RTO),int
+Juvenile Cats: Transfer or Rescue out to another Colorado organization,int
+Juvenile Cats: Transfer or Rescue out to an Out of State organization,int
+Juvenile Cats: Other Live Outcomes (ie:tnr / snr),int
+Juvenile Cats: Died ,int
+Juvenile Cats: Missing / Stolen,int
+Juvenile Cats: Shelter Euthanasia,int
+Juvenile Cats: Owner Requested Euthanasia ,int
+Juvenile Cats: Ending Count,int
+Juvenile Cats: Foster Count,int
+Juvenile Cats: AVG LOS,int
+Juvenile Cats: Notes,string
+Birds: Beginning Count,int
+Birds: Beginning Foster Count,int
+Birds: Stray,int
+Birds: Owner Relinquished,int
+Birds: Owner Requested Euthanasia upon intake,int
+Birds: Transfer in from another Colorado organization,int
+Birds: Transfer in from Out of State organization,int
+Birds: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Birds: Adoption,int
+Birds: Returned To Owner (RTO),int
+Birds: Transfer or Rescue out to another Colorado organization,int
+Birds: Transfer or Rescue out to an Out of State organization,int
+Birds: Other Live Outcomes(ie: tnr / snr),int
+Birds: Died,int
+Birds: Missing / Stolen ,int
+Birds: Shelter Euthanasia,int
+Birds: Owner Requested Euthanasia,int
+Birds: Ending Count,int
+Birds: Foster Count,int
+Birds: AVG LOS,int
+Birds: Notes:,string
+Small Mammal: Beginning Count,int
+Small Mammal: Beginning Foster Count,int
+Sm Mammal: Stray,int
+Sm Mammal: Owner Relinquished,int
+Sm Mammal: Owner Requested Euthanasia upon intake,int
+Sm Mammal: Transfer in from another Colorado organization,int
+Sm Mammal: Transfer in from Out of State organization,int
+Sm Mammal: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Sm Mammal: Adoption,int
+Sm Mammal: Returned To Owner (RTO),int
+Sm Mammal: Transfer or Rescue out to another Colorado organization,int
+Sm Mammal: Transfer or Rescue out to an Out of State organization,int
+Sm Mammal: Other Live Outcomes (ie: tnr / snr),int
+Sm Mammal: Died,int
+Sm Mammal: Missing / Stolen ,int
+Sm Mammal: Shelter Euthanasia,int
+Sm Mammal: Owner Requested Euthanasia,int
+Sm Mammal: Ending Count,int
+Sm Mammal: Foster Count,int
+Sm Mammal: AVG LOS,int
+Reptiles: Beginning Count,int
+Reptiles: Beginning Foster Count,int
+Reptiles: Stray,int
+Reptiles: Owner Relinquished,int
+Reptiles: Owner Requested Euthanasia upon intake,int
+Reptiles: Transfer in from another Colorado organization,int
+Reptiles: Transfer in from Out of State organization,int
+Reptiles: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Reptiles: Adoption,int
+Reptiles: Returned To Owner (RTO),int
+Reptiles: Transfer or Rescue out to another Colorado organization,int
+Reptiles: Transfer or Rescue out to an Out of State organization,int
+Reptiles: Other Live Outcomes (ie: tnr / snr),int
+Reptiles: Died,int
+Reptiles: Missing / Stolen ,int
+Reptiles: Shelter Euthanasia,int
+Reptiles: Owner Requested Euthanasia,int
+Reptiles: Ending Count,int
+Reptiles: Foster Count,int
+Reptiles: AVG LOS,int
+Rabbits: Beginning Count,int
+Rabbits: Beginning Foster Count,int
+Rabbits: Stray,int
+Rabbits: Owner Relinquished,int
+Rabbits: Owner Requested Euthanasia upon intake,int
+Rabbits: Transfer in from another Colorado organization,int
+Rabbits: Transfer in from Out of State organization,int
+Rabbits: Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Rabbits: Adoption,int
+Rabbits: Returned To Owner (RTO),int
+Rabbits: Transfer or Rescue out to another Colorado organization,int
+Rabbits: Transfer or Rescue out to an Out of State organization,int
+Rabbits: Other Live Outcomes ( ie: tnr / snr),int
+Rabbits: Died,int
+Rabbits: Missing / Stolen ,int
+Rabbits: Shelter Euthanasia,int
+Rabbits: Owner Requested Euthanasia,int
+Rabbits: Ending Count,int
+Rabbits: Foster Count,int
+Rabbits: AVG LOS,int
+Other: Beginning Count,int
+Other: Beginning Foster Count,int
+Other: Stray,int
+Other: Owner Relinquished,int
+Other: Owner Requested Euthanasia upon intake,int
+Other: Transfer in from another Colorado organization,int
+Other: Transfer in from Out of State organization,int
+Other: TNR / Protective Custody / Returns / Disaster Relief,int
+Other: Adoption,int
+Other: Returned To Owner (RTO),int
+Other: Transfer or Rescue out to another Colorado organization,int
+Other: Transfer or Rescue out to an Out of State organization,int
+Other: Other Live Outcomes (ie: tnr / snr),int
+Other: Died,int
+Other: Missing / Stolen ,int
+Other: Shelter Euthanasia,int
+Other: Owner Requested Euthanasia,int
+Other: Ending Count,int
+Other: Foster Count,int
+Other: AVG LOS,int
+Other: Notes:,string
+Location 1,string
